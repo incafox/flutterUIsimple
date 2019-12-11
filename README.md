@@ -6,5 +6,5 @@ App concepto UI haciendo uso de cards.
 <img src="images/booking2.jpg">
 <img src="images/booking3.jpg">
 
-Parte de portfolio Flutter.
+Flutter.
 
